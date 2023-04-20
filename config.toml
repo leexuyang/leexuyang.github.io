@@ -61,10 +61,7 @@ publishDir = "docs"
 
 # Your socail's url
 [social]
-  twitter = "https://twitter.com/transferingz"
-  weibo = "https://www.weibo.com/u/1749041570"
   telegram = "https://telegram.me/lixuyang"
-  zhihu = "https://www.zhihu.com/people/lee-xuyang"
 
 [markup]
 [markup.goldmark]
